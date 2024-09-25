@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ClevertonZarelli<br>👀 I’m interested in C#, Asp.Net Core, Web.API, MVC, Dapper, Postgres, Flutter, Dart.<br>🌱 I’m currently learning everything web applications with React, TypeScript, Angular.<br>🔭 I’m currently working with ERP full C# and Mobile/Web with Flutter/Dart.
+👋 Hi, I’m @ClevertonZarelli<br>👀 I’m interested in C#, Asp.Net Core, Web.API, MVC, Dapper, Postgres, Flutter, Dart.<br>🌱 I’m currently learning everything web applications with React, TypeScript, Angular.<br>🔭 I’m currently working with ERP full C# and Mobile/Web with Flutter/Dart and Asp.net Web Api.
 
 
 ## 🌐 Socials:
